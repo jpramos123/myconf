@@ -1,0 +1,1 @@
+/home/jramos/.config/i3
